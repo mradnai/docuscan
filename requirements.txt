@@ -1,3 +1,4 @@
 streamlit
 langchain
 python-docx
+openai
