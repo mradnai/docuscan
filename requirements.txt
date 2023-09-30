@@ -1,4 +1,4 @@
 streamlit
 langchain
-python-docx
+doc2txt
 openai
