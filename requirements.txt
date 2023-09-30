@@ -1,4 +1,4 @@
 streamlit
 langchain
-doc2txt
+docx2txt
 openai
